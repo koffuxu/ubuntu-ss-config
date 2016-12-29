@@ -51,5 +51,6 @@ cd shadowsocks
 genpac --proxy="SOCKS5 127.0.0.1:1080" --gfwlist-proxy="SOCKS5 127.0.0.1:1080" -o autoproxy.pac --gfwlist-url="https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt"
 ```
 
-[reference](https://jingsam.github.io/2016/05/08/setup-shadowsocks-http-proxy-on-ubuntu-server.html)
-[reference](http://www.voidcn.com/blog/hanshileiai/article/p-6208794.html)
+[ss-reference](https://jingsam.github.io/2016/05/08/setup-shadowsocks-http-proxy-on-ubuntu-server.html)
+
+[pac-reference](http://www.voidcn.com/blog/hanshileiai/article/p-6208794.html)
